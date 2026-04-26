@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🏰 Léo Mathias | Guardião dos Sistemas
 
-<!--
-**LeoMathias/LeoMathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Analista de TI em evolução, migrando para os caminhos do QA e do desenvolvimento back-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧙 Classe
+Analista de TI / QA em evolução
+
+## ⚔️ Especialidade
+Suporte técnico, troubleshooting e automação de testes
+
+---
+
+## 🧠 Atributos
+
+- Lógica: ⭐⭐⭐⭐☆
+- Resolução de Problemas: ⭐⭐⭐⭐⭐
+- Disciplina: ⭐⭐⭐⭐⭐
+
+---
+
+## 🎒 Inventário
+
+- Java, Python, JavaScript  
+- Git & GitHub  
+- Cypress (testes automatizados)  
+- Windows, Linux e Redes  
+
+---
+
+## 🗺️ Missão
+
+Consolidar a transição para QA e desenvolvimento back-end, evoluindo constantemente no mundo da tecnologia.
+
+---
