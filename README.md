@@ -1,4 +1,4 @@
-# 🏰 Léo Mathias | Guardião dos Sistemas
+# 🏰 Léo Mathias | 
 
 > Analista de TI em evolução, migrando para os caminhos do QA e do desenvolvimento back-end.
 
