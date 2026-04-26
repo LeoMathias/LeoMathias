@@ -1,4 +1,4 @@
-# 🏰 Léo Mathias | <a href="https://www.linkedin.com/in/leomathias/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/></a>
+# 🏰 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&color=00D9FF&center=false&vCenter=true&width=420&lines=L%C3%A9o+Mathias;Analista+de+TI;QA+em+evolu%C3%A7%C3%A3o" /> | <a href="https://www.linkedin.com/in/leomathias/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/></a>
 
 > Analista de TI em evolução, migrando para os caminhos do QA e do desenvolvimento back-end.
 
