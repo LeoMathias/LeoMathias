@@ -1,4 +1,4 @@
-# 🏰 Léo Mathias | 
+# 🏰 Léo Mathias | <a href="https://www.linkedin.com/in/leomathias/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/></a>
 
 > Analista de TI em evolução, migrando para os caminhos do QA e do desenvolvimento back-end.
 
